@@ -1,3 +1,3 @@
-#Strogonoff de Frango :chicken:
+#Strogonoff de Frango# :chicken:
 
 **etceeetc**
